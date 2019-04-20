@@ -65,3 +65,15 @@ When user to to a website
 
 #### Inheritance
 - The *initial* keyword resets a property to its initial value
+
+#### Some attributes
+- **display**: The **display** property specifies if/how an element is displayed.
+  * *block-level*: box-modle applies as showed
+  * *inline-block*: Occupies only content's space, No line-breaks, box-model applies as showed
+  * *inline*: no line-breaks, occupies only content's space
+
+- **Position**:
+  * *normal flow*: default:" *position*:relative "
+  * *floats* :float: left, float: right
+  * *absolute positioning*: position:absolute, position: fixed
+- **BEM**: Block__element--modifier
